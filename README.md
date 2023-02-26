@@ -15,14 +15,12 @@
 
   #### Esse respositório visou o aprendizado desses conceitos básicos.
   
-  
-  
 
 ## Instalação da biblioteca com TypeScript
 
    ##### ``yarn add react-router-dom@6.4.1 @types/react-router-dom@5.3.3``
    
-## Versões
+## :pencil: Versões
 
   - ##### Nodejs: 18.9.1
   - ##### Yarn: 1.22.19
